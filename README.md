@@ -35,6 +35,3 @@ The project provides a detailed analysis of Virat Kohli's performance over time,
 ## How to Run the Project
 1. Clone the repository: `git clone https://github.com/SrigadaAkshayKumar/Discriptive-Analysis-cricket-player-stats-Virat-Kohli.git`
 3. Run the Jupyter Notebook: `jupyter notebook Player-stats-Analysis.ipynb`
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
